@@ -1,4 +1,4 @@
-# data-struct-js
+# npm-test
 
 ## About this package
 
@@ -13,16 +13,16 @@ You can download and run `npm run compile` with customized babel setting to meet
 
 ## How to use
 
-> more examples see [`data-struct-js/examples`](./examples)
+> more examples see [`npm-test/examples`](./examples)
 
 ### install the package
 
 ```bash
-npm install --save-dev data-struct-js
+npm install --save-dev npm-test
 ```
 or
 ```bash
-npm i -D data-struct-js
+npm i -D npm-test
 ```
 
 ### then use the data-structures supplied simply as below
@@ -38,7 +38,7 @@ const {
     HashTalbe,
     BinarySearchTree,
     RedBlackTree,
-} = require('data-struct-js')
+} = require('npm-test')
 // Or ↓
 // import {
 //     Stack,
@@ -50,7 +50,7 @@ const {
 //     HashTalbe,
 //     BinarySearchTree,
 //     RedBlackTree,
-// } from 'data-struct-js'
+// } from 'npm-test'
 // -> may need webpack and bable-loader environment
 
 //----------------------------
