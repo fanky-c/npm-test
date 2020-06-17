@@ -5,5 +5,5 @@
       }]
     ],
     "plugins": ["transform-vue-jsx"]
-  }
+}
   
