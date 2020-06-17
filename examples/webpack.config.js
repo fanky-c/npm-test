@@ -35,6 +35,6 @@ module.exports = {
         extensions: [".js", ".jsx"]
     },
     devServer: {
-        port: 8080
+        port: 8888
     }
 };
